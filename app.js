@@ -9,6 +9,13 @@ angular.Module('weatherApp',[])
             url_name: "Amarillo",
             state: "TX"
         },
+        
+        {
+            name: "Albuquerque",
+            url_name: "Albuquerque",
+            state: "NM"
+            
+        },
         ];
     
     
